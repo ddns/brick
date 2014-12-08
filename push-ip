@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd /home/cron/ip
+
+wget myip.dnsdynamic.com
+
+cat index.html >> ip
+git add ip
+git commit -s -m "`date`"
+git push -u origin test
+
