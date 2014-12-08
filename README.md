@@ -23,5 +23,5 @@ u74147@gmail.com
 ```
 
 the eval board is attached on `/dev/ttyS0`.
-the control board is attached on /dev/ttyUSB0.
+the control board is attached on `/dev/ttyUSB0`.
 
