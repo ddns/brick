@@ -11,7 +11,7 @@ github.
 to login our server, please check the link:
 
 ```
-https://github.com/zhang3/ip/blob/test/ip
+<https://github.com/zhang3/ip/blob/test/ip>
 ```
 
 note that, our ssh port is `1111`, not 22.
