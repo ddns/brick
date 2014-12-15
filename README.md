@@ -8,10 +8,10 @@ it's not worth to pay for that.
 so, i write a script for a workaround,
 it will update our server's ip ervery hour to
 github.
-to login our server, please check the link:
+to login our server, please check the [link](https://github.com/zhang3/ip/blob/test/ip):
 
 ```
-<https://github.com/zhang3/ip/blob/test/ip>
+https://github.com/zhang3/ip/blob/test/ip
 ```
 
 note that, our ssh port is `1111`, not 22.
