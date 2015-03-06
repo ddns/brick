@@ -26,7 +26,7 @@ or use this guest account:
 
 ```
 username: guess
-password: 837b9d0c63b487ece11efca898689d24882bf1b2
+password: db75356f14646a4bca7b712f2128435e97f55c17
 ```
 
 the eval board is attached on `/dev/ttyS0`.
