@@ -12,5 +12,5 @@ echo "`date`: `cat index.html`" >>ip
 
 git add ip
 git commit -s -m "`date`"
-git push -u origin test
+git push -u origin master
 
