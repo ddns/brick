@@ -14,7 +14,7 @@ to login our server, please check the [link](https://github.com/zhang3/ip/blob/t
 https://github.com/ddns/brick/blob/master/ip
 ```
 
-note that, our ssh port is `1111`, not 22.
+note that, our ssh port is `6622`, not 22.
 for account, please email me:
 
 ```
